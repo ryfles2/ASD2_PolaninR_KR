@@ -1,0 +1,5 @@
+2
+tekst.txt
+1221
+tekst.txt
+2221
